@@ -1,4 +1,4 @@
-Imports Microsoft.VisualBasic
+﻿Imports Microsoft.VisualBasic
 Imports System
 Namespace E668
 	Partial Public Class Form1
@@ -30,11 +30,11 @@ Namespace E668
 			' 
 			' button1
 			' 
-			Me.button1.Location = New System.Drawing.Point(89, 107)
+			Me.button1.Location = New System.Drawing.Point(75, 61)
 			Me.button1.Name = "button1"
-			Me.button1.Size = New System.Drawing.Size(75, 23)
+			Me.button1.Size = New System.Drawing.Size(107, 23)
 			Me.button1.TabIndex = 0
-			Me.button1.Text = "button1"
+			Me.button1.Text = "Show Preview"
 			Me.button1.UseVisualStyleBackColor = True
 '			Me.button1.Click += New System.EventHandler(Me.button1_Click);
 			' 

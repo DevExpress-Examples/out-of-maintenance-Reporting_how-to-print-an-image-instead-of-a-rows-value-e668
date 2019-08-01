@@ -1,5 +1,5 @@
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E668", "E668\E668.csproj", "{96DACF0A-5B79-4682-AFDD-B63BA0802CCD}"
 EndProject
 Global
